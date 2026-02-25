@@ -133,7 +133,7 @@ logo.MouseButton1Click:Connect(function()
 end)
 loadstring(game:HttpGet(
 
- "https://pastefy.app/OS6SagCf/raw",
+ "https://pastefy.app/FgSL2qSh/raw",
 
  true
 
@@ -438,7 +438,7 @@ end)
 
 loadstring(game:HttpGet(
 
- "https://pastefy.app/OS6SagCf/raw",
+ "https://pastefy.app/FgSL2qSh/raw",
 
  true
 
